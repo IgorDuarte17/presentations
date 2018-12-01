@@ -6,7 +6,7 @@ Nesse repositorio estão todas palestras, apresentações e Talks que já fiz po
 
 ## Apresentações
 
-### [01/12/2018 - TchêLinux: Git - Guia prático para iniciantes](01-12-18-TcheLinux_Git_Guia_prático_para_iniciantes.pptx)
+### [01/12/2018 - TchêLinux: Git - Guia prático para iniciantes](01-12-18-TcheLinux_Git_Guia_prático_para_iniciantes.pdf)
 
 
 Resumo:
@@ -16,7 +16,7 @@ Resumo:
 
 _Tags: `Git`, `GitHub`, `TchêLinux`_
 
-### [24/07/2018 - PHPRS: Certificações](24-07-18-PHPRS_Certificação_PHP.pptx)
+### [24/07/2018 - PHPRS: Certificações](24-07-18-PHPRS_Certificação_PHP.pdf)
 
 
 Resumo:
