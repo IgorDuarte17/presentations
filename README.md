@@ -1,4 +1,4 @@
-# Activities by <a href="https://twitter.comIgor_Duarte" target="_blank">Igor Santos</a>
+# Talks por Aí by <a href="https://twitter.comIgor_Duarte" target="_blank">Igor Santos</a>
 
 
 Nesse repositorio estão todas palestras, apresentações e Talks que já fiz por aí.
