@@ -6,7 +6,17 @@ Nesse repositorio estão todas palestras, apresentações e Talks que já fiz po
 
 ## Apresentações
 
-### [01/12/2018 - TchêLinux: Git - Guia prático para iniciantes](01-12-18-TcheLinux_Git_Guia_prático_para_iniciantes.pdf)
+### [07/12/2018 - PHP Conference Brasil - Caso de Uso: Automatização de Processos com PHP 7 E Laravel](06-12-18-PHP_Conference_Brasil.pdf)
+
+
+Resumo:
+
+> Nesta apresentação vamos ver um caso de uso de uma financeira onde foi possível automatizar processos, através de uma ferramenta de simulação de crédito desenvolvida com PHP 7 e Laravel, assim, eliminando o reprocesso, aumentando a produtividade e gerando redução de custos.
+
+
+_Tags: `Git`, `GitHub`, `TchêLinux`_
+
+### [01/12/2018 - TchêLinux - Git: Guia prático para iniciantes](01-12-18-TcheLinux_Git_Guia_prático_para_iniciantes.pdf)
 
 
 Resumo:
@@ -16,7 +26,8 @@ Resumo:
 
 _Tags: `Git`, `GitHub`, `TchêLinux`_
 
-### [24/07/2018 - PHPRS: Certificações](24-07-18-PHPRS_Certificação_PHP.pdf)
+
+### [24/07/2018 - PHPRS - Meetup Certificações](24-07-18-PHPRS_Certificação_PHP.pdf)
 
 
 Resumo:
