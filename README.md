@@ -14,7 +14,7 @@ Resumo:
 > Nesta apresentação vamos ver um caso de uso de uma financeira onde foi possível automatizar processos, através de uma ferramenta de simulação de crédito desenvolvida com PHP 7 e Laravel, assim, eliminando o reprocesso, aumentando a produtividade e gerando redução de custos.
 
 
-_Tags: `Git`, `GitHub`, `TchêLinux`_
+_Tags: `PHP`, `Laravel`, `Automatização`, `processos`, `Simulador`_
 
 ### [01/12/2018 - TchêLinux - Git: Guia prático para iniciantes](01-12-18-TcheLinux_Git_Guia_prático_para_iniciantes.pdf)
 
