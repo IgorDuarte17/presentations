@@ -38,7 +38,7 @@ Resumo:
 _Tags: `PHP`, `Certificação`, `PHPRS`_
 
 
-### [28/07/2017 - Grupo RBS - Vestígios de Guerra](28-07-17-RBS_vestigios_de_guerra.pdf)
+### [14/07/2017 - Grupo RBS - Vestígios de Guerra](14-07-17-RBS_vestigios_de_guerra.pdf)
 
 
 Resumo:
@@ -49,7 +49,7 @@ Resumo:
 _Tags: `Docker`, `Container`, `OpenShift`, `Engenharia de Software`_
 
 
-### [14/03/2017 - Grupo RBS - MicroServices](14-03-17-RBS_MicroServices.pdf)
+### [28/03/2017 - Grupo RBS - MicroServices](28-03-17-RBS_MicroServices.pdf)
 
 
 Resumo:
