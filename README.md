@@ -38,6 +38,17 @@ Resumo:
 _Tags: `PHP`, `Certificação`, `PHPRS`_
 
 
+### [28/07/2017 - Grupo RBS - Vestígios de Guerra](28-07-17-RBS_vestigios_de_guerra.pdf)
+
+
+Resumo:
+
+> Aqui vamos ver como embarcar uma aplicação Node com DB MySQL em container e subir em uma pode pelo OpenShift para disponibilizá-la ao usuário.
+
+
+_Tags: `Docker`, `Container`, `OpenShift`, `Engenharia de Software`_
+
+
 ### [28/03/2017 - Grupo RBS - MicroServices](28-03-17-RBS_MicroServices.pdf)
 
 
