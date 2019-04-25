@@ -37,3 +37,13 @@ Resumo:
 
 _Tags: `PHP`, `Certificação`, `PHPRS`_
 
+
+### [28/03/2017 - Grupo RBS - MicroServices](28-03-17-RBS_MicroServices.pdf)
+
+
+Resumo:
+
+> Vamos ver o que são Microserviços, qual a diferença da arquitetura monolítica para de microserviços, assim como as vantagens e desvantagens de usar microserviços e quando usar arquitetura monolítica ou de microserviços, e também alguns cases legais.
+
+
+_Tags: `Microservices`, `MicroServiços`, `Engenharia de Software`_
