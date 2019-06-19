@@ -1,10 +1,20 @@
 # Talks por Aí by <a href="https://twitter.comIgor_Duarte" target="_blank">Igor Santos</a>
 
-
-Nesse repositorio estão todas palestras, apresentações e Talks que já fiz por aí.
+Nesse repositório estão todas palestras, apresentações e Talks que já fiz por aí.
 
 
 ## Apresentações
+
+### [17/06/2019 - PHPRS - Monolíticos Distribuídos: Um case de Falha que deu certo](17-06-19-PHPRS_MonolIticos_DistribuIdos.pdf)
+
+
+Resumo:
+
+> Nessa talk vamos falar sobre um case de migração de uma aplicação legada monolítica para uma arquitetura distribuída baseada em microsserviços, na qual atingiu seu objetivo porém ao custo do hype do momento...
+
+
+_Tags: `PHP`, `Microsserviços`, `Monolíticos`, `Sistemas Distribuídos`, `Docker`_
+
 
 ### [07/12/2018 - PHP Conference Brasil - Caso de Uso: Automatização de Processos com PHP 7 E Laravel](06-12-18-PHP_Conference_Brasil.pdf)
 
