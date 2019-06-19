@@ -5,7 +5,7 @@ Nesse repositório estão todas palestras, apresentações e Talks que já fiz p
 
 ## Apresentações
 
-### [17/06/2019 - PHPRS - Monolíticos Distribuídos: Um case de Falha que deu certo](17-06-19-PHPRS_MonolIticos_DistribuIdos.pdf)
+### [17/06/2019 - PHPRS - Monolíticos Distribuídos: Um case de Falha que deu certo](talks/17-06-19-PHPRS_MonolIticos_DistribuIdos.pdf)
 
 
 Resumo:
@@ -16,7 +16,7 @@ Resumo:
 _Tags: `PHP`, `Microsserviços`, `Monolíticos`, `Sistemas Distribuídos`, `Docker`_
 
 
-### [07/12/2018 - PHP Conference Brasil - Caso de Uso: Automatização de Processos com PHP 7 E Laravel](06-12-18-PHP_Conference_Brasil.pdf)
+### [07/12/2018 - PHP Conference Brasil - Caso de Uso: Automatização de Processos com PHP 7 E Laravel](talks/06-12-18-PHP_Conference_Brasil.pdf)
 
 
 Resumo:
@@ -26,7 +26,7 @@ Resumo:
 
 _Tags: `PHP`, `Laravel`, `Automatização`, `processos`, `Simulador`_
 
-### [01/12/2018 - TchêLinux - Git: Guia prático para iniciantes](01-12-18-TcheLinux_Git_Guia_prático_para_iniciantes.pdf)
+### [01/12/2018 - TchêLinux - Git: Guia prático para iniciantes](talks/01-12-18-TcheLinux_Git_Guia_prático_para_iniciantes.pdf)
 
 
 Resumo:
@@ -37,7 +37,7 @@ Resumo:
 _Tags: `Git`, `GitHub`, `TchêLinux`_
 
 
-### [24/07/2018 - PHPRS - Meetup Certificações](24-07-18-PHPRS_Certificação_PHP.pdf)
+### [24/07/2018 - PHPRS - Meetup Certificações](talks/24-07-18-PHPRS_Certificação_PHP.pdf)
 
 
 Resumo:
@@ -48,7 +48,7 @@ Resumo:
 _Tags: `PHP`, `Certificação`, `PHPRS`_
 
 
-### [14/07/2017 - Grupo RBS - Vestígios de Guerra](14-07-17-RBS_vestigios_de_guerra.pdf)
+### [14/07/2017 - Grupo RBS - Vestígios de Guerra](talks/14-07-17-RBS_vestigios_de_guerra.pdf)
 
 
 Resumo:
@@ -59,7 +59,7 @@ Resumo:
 _Tags: `Docker`, `Container`, `OpenShift`, `Engenharia de Software`_
 
 
-### [28/03/2017 - Grupo RBS - MicroServices](28-03-17-RBS_MicroServices.pdf)
+### [28/03/2017 - Grupo RBS - MicroServices](talks/28-03-17-RBS_MicroServices.pdf)
 
 
 Resumo:
