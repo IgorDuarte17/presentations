@@ -1,9 +1,20 @@
-# Talks por Aí by <a href="https://twitter.comIgor_Duarte" target="_blank">Igor Santos</a>
+# Talks por Aí by <a href="https://twitter.com/Igor_Duarte" target="_blank">Igor Santos</a>
 
 Nesse repositório estão todas palestras, apresentações e Talks que já fiz por aí.
 
 
 ## Apresentações
+
+### [05/09/2019 - Locaweb Digital Conference - Como Tirar seu Projeto do Papel](talks/05-09-19-como_tirar_seu_projeto_papel.pdf)
+
+
+Resumo:
+
+> As vezes temos uma ideia, porém não sabemos o que fazer para começar de verdade.  
+Nessa palestra mostrarei como podemos sair do 0 e tirar nossa ideia do papel.
+
+
+_Tags: `Projeto`, `Produto Digital`, `MVP`, `Lean Inception`_
 
 ### [17/06/2019 - PHPRS - Monolíticos Distribuídos: Um case de Falha que deu certo](talks/17-06-19-PHPRS_MonolIticos_DistribuIdos.pdf)
 
@@ -24,7 +35,7 @@ Resumo:
 > Nesta apresentação vamos ver um caso de uso de uma financeira onde foi possível automatizar processos, através de uma ferramenta de simulação de crédito desenvolvida com PHP 7 e Laravel, assim, eliminando o reprocesso, aumentando a produtividade e gerando redução de custos.
 
 
-_Tags: `PHP`, `Laravel`, `Automatização`, `processos`, `Simulador`_
+_Tags: `PHP`, `Laravel`, `Automatização`, `processos`, `Simulador`, `PHP Conference Brasil`_
 
 ### [01/12/2018 - TchêLinux - Git: Guia prático para iniciantes](talks/01-12-18-TcheLinux_Git_Guia_prático_para_iniciantes.pdf)
 
