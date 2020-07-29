@@ -1,6 +1,7 @@
 # Talks por Aí by <a href="https://twitter.com/Igor_Duarte" target="_blank">Igor Santos</a>
 
-Nesse repositório estão todas palestras, apresentações e Talks que já fiz por aí.
+Nesse repositório estão todas palestras, apresentações e Talks que já fiz por aí.  
+Você pode encontrar todas minhas apresentações no Speaker Deck: [speakerdeck.com/igorsantos](https://speakerdeck.com/igorsantos)
 
 
 ## Apresentações
