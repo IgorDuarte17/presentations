@@ -5,6 +5,82 @@ Nesse repositório estão todas palestras, apresentações e Talks que já fiz p
 
 ## Apresentações
 
+### [14/12/2019 - TchêLinux Porto Alegre - Modern PHP V2 feat. Galvão](talks/14-12-19-modern_php_v2.pdf)
+
+
+Resumo:
+
+> PHP moderno surgiu em meados de 2015 em um livro escrito por Josh Lockhart (também autor do Slim Framework e do PHP The Right Way).  
+Mas será que o PHP se mantém moderno nos dias atuais?  
+Como está o ecossistema do PHP em 2019 e o que o mercado e as comunidades estão utilizando para resolver os seus problemas?  
+Vem comigo e vamos ver o quanto o PHP está moderno nos dias atuais.
+
+
+_Tags: `Modern PHP`, `PHP`, `TchêLinux`_
+
+### [14/12/2019 - TchêLinux Porto Alegre - Integração Contínua em Projetos PHP Utilizando Github Actions](talks/14-12-19-integracao_continua_github_actions.pdf)
+
+
+Resumo:
+
+> Github Actions é um serviço relativamente novo, que permite a criação de workflows com jobs a serem executados a partir dos eventos disparados no Github.  
+Se o seu projeto já está no Github esse serviço irá favorecer muito a implementação de integração e entrega contínua sem que haja a necessidade de sair para outras soluções como: Jenkins, Travis, CircleCI.  
+Nessa talk veremos como funciona a integração contínua de um projeto PHP utilizando o Github Actions, e como funciona um workflow que realiza a execução de testes e ferramentas de analise de código que visam garantir que a qualidade e a entrega do código esteja de acordo com o esperado.
+
+
+_Tags: `Github Actions`, `Integração Contínua`, `PHP`, `TchêLinux`_
+
+### [07/12/2019 - PHP Conference Brasil - Análise de Projetos PHP](talks/07-12-19-analise_projetos_php.pdf)
+
+
+Resumo:
+
+> Por PHP ser uma linguagem interpretada, erros existentes no código só serão descobertos quando foram executados.  
+Testes automatizados são uma ferramenta importante para prevensão de erros, mas como é possível verificar erros que podem passar despercebidos pelos testes ou inconsistências no projeto?!  
+Nessa talk vamos ver ferramentas que permitem realizar análises dos códigos em nossos projetos.  
+Com elas podemos verificar erros, complexidade, adequeção a boas práticas e PSRs e até mesmo uma analise de performance.
+
+
+_Tags: `PHP`, `Análise`, `Projetos`, `PHP Conference Brasil`_
+
+### [06/12/2019 - PHP Conference Brasil - Testes Automatizados com Codeception](talks/06-12-19-testes_automatizados_codeception.pdf)
+
+
+Resumo:
+
+> Codeception é um incrível framework opensource que contem as principais ferramentas de automação de testes do mercado.  
+Com ele é possível escrever testes unitários, de integração e aceitação.  
+Nessa apresentação vamos ver como é possível criar e executar testes em sua aplicação PHP.
+
+
+_Tags: `PHP`, `Testes`, `Codeception`, `PHP Conference Brasil`_
+
+### [28/09/2019 - FossDay Bento Gonçalves - Modern PHP](talks/28-09-19-modern_php.pdf)
+
+
+Resumo:
+
+> PHP moderno surgiu em meados de 2015 em um livro escrito por Josh Lockhart (também autor do Slim Framework e do PHP The Right Way).  
+Mas será que o PHP se mantém moderno nos dias atuais?  
+Como está o ecossistema do PHP em 2019 e o que o mercado e as comunidades estão utilizando para resolver os seus problemas?  
+Vem comigo e vamos ver o quanto o PHP está moderno nos dias atuais.
+
+
+_Tags: `Modern PHP`, `PHP`, `FossDay`, `PHPRS`_
+
+### [14/09/2019 - Meetup PHPRS em Taquara - Novidades do PHP 7.4](talks/14-09-19-novidades_php_7_4.pdf)
+
+
+Resumo:
+
+> Irei abordar brevemente o histórico do PHP até os dias atuais.  
+E mostrar quais as novidades e depreciações vem por aí na nova versão 7.4.  
+E também vamos ver o que podemos esperar do PHP 8!!
+
+
+_Tags: `Meetup`, `PHP`, `PHP 7.4`, `PHPRS`_
+
+
 ### [05/09/2019 - Locaweb Digital Conference - Como Tirar seu Projeto do Papel](talks/05-09-19-como_tirar_seu_projeto_papel.pdf)
 
 
